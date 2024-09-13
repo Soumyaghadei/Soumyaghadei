@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 <a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
 <br><br>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vinodjangid07&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/vinodjangid07)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=vinodjangid07&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Soumyaghadei)
 <p align="left"><img align="left" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Backend Developer & ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://www.vinodjangid.site/" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://soumyapotfolio.netlify.app/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br>
 
@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 
 <p align="left">
- <a href="https://www.linkedin.com/in/vinodjangid07/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="Linkdin" height="50" title="linkdin"></a>
-  <a href="mailto:infovinodjangid@gmail.com" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail"></a>
-  <a href="https://twitter.com/Vinod_Jangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a>
- <a href="https://www.instagram.com/pexel_ui/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
-  <a href="https://uiverse.io/profile/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/b07ceafc-8cc1-4e4d-a5b4-e1846c40f0c2" alt="uiverse" height="50" title="Uiverse"></a>
- <a href="https://codepen.io/vinodjangid07" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/85960e4e-546e-4b2e-a2f5-0b7ae0a2e15d" alt="Codepen" height="50" title="Codepen"></a>
- <a href="https://www.vinodjangid.site/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
+ <a href="https://www.linkedin.com/in/soumyaranjanghadei/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/2282dd88-2225-45aa-992a-bec8fde0e788" alt="Linkdin" height="50" title="linkdin"></a>
+  <a href="mailto:soumyaranjanghadei2211@gmail.com" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/cbe4890a-aac0-465c-ba24-33458e9f8881" alt="Gmail" height="50" title="Gmail"></a>
+  <a href="https://twitter.com/soumyaranjanghadei" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80ca6f4f-01a3-40db-a50f-77bde71f13ad" alt="Twitter" height="50" title="Twitter"></a>
+ <a href="https://www.instagram.com/soumyaranjanghadei1/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/1de75b52-f87e-4394-975f-755b198d3536" alt="Instagram" height="50" title="Instagram"></a>
+ 
+ <a href="https://codepen.io/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/85960e4e-546e-4b2e-a2f5-0b7ae0a2e15d" alt="Codepen" height="50" title="Codepen"></a>
+ <a href="https://www.instagram.com/soumyaranjanghadei1/" target="_blank"><img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/3a2a0e30-8369-4f1a-9788-95fa30ac2f36" alt="Portfolio" height="50" title="Portfolio"></a>
 </p>
 <br>
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/d2bd3af3-a9c0-404c-8f98-97704b39a19c">
 <br><br>
-<a href="https://www.buymeacoffee.com/vinod.jangid07" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <br><br>
 <img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
 
@@ -89,5 +89,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dark&combine_all_yearly_contributions=true)
