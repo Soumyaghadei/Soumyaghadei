@@ -20,7 +20,19 @@ Here are some ideas to get you started:
 
 <a href="https://vinodjangid07.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
 <br><br>
-
+**✨ Tech stacks currently using** <br>
+<br>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<br>
+<br>
 
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
