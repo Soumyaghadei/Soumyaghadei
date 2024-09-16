@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 
 <ul align="right">
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Backend Developer & ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
